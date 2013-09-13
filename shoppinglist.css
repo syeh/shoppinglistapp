@@ -46,6 +46,7 @@ input[type=button] {
 
 ol {
 	margin: 0 auto;
+	float: center;
 	background-color: #ff5454;
 	border-radius: 12px;
 	font-family: 'Advent Pro', sans-serif;
